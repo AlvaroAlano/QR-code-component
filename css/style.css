@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #d5e1ef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  height: 100vh;
+}
+.container {
+  width: 250px;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+  font-family: "Inter";
+}
+img {
+  width: 250px;
+  border-radius: 10px;
+}
+.text {
+  padding: 10px;
+}
+h1 {
+  font-size: 18px;
+  text-align: center;
+  font-weight: 700;
+  margin-top: 20px;
+}
+p {
+  font-size: 13px;
+  text-align: center;
+  font-weight: 400;
+  color: #999;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
